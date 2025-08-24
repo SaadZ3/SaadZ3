@@ -1,4 +1,4 @@
-<h1 align="left">Saad Amer 👨‍💻</h1>
+<h1 align="left">👨‍💻 Saad Amer </h1>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="left">Linguagens e Tecnologias</h2>
+<h2 align="left">🤖Linguagens e Tecnologias</h2>
 
 ###
 
@@ -41,7 +41,7 @@
 ###
 
 
-<h2 align="left">Estatísticas</h2>
+<h2 align="left">📊Estatísticas</h2>
 
 ###
 
