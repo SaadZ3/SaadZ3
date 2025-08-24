@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Sobre Mim</h2>
+<h2 align="left">👋 Sobre Mim</h2>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="left">🤖Linguagens e Tecnologias</h2>
+<h2 align="left">🤖 Linguagens e Tecnologias</h2>
 
 ###
 
@@ -41,13 +41,24 @@
 ###
 
 
-<h2 align="left">📊Estatísticas</h2>
+<h2 align="left">📊 Estatísticas</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadz3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-Br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saadz3&locale=pt-Br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=SaadZ3&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+ />
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadZ3&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
+  />
 
+</p>
 ###
