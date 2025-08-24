@@ -48,14 +48,14 @@
 <div align="center">
   <img 
     alt="GitHub Stats" 
-    height="150" 
+    height="165" 
     width="400"
     style="margin: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=SaadZ3&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
     alt="GitHub Languages" 
-    height="150" 
+    height="165" 
     width="400"
     style="margin: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadZ3&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
