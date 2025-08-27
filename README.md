@@ -1,8 +1,18 @@
 <h1 align="left">👨‍💻 Saad Amer </h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Ol%C3%A1!+Eu+sou+Saad%F0%9F%91%8B;Desenvolvedor+FullStack+%F0%9F%9A%80;Criando+solu%C3%A7%C3%B5es+inovadoras+%E2%9C%A8" alt="Typing SVG" />
+</div>
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=SaadZ3&color=brightgreen&style=flat-square)
+  [![GitHub followers](https://img.shields.io/github/followers/SaadZ3?label=Followers&style=social)](https://github.com/SaadZ3)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/saad-amer-102482279/))
+  
+</div>
+
 
 ###
 
-`<Desenvolvedor FullStack/>`
 
 ###
 
