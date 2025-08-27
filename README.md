@@ -65,6 +65,5 @@
 </div>
 
 
-<h2 align="center"> ⭐ Se gostou do meu perfil, deixe uma estrela nos meus repositórios! ⭐ <h2></h2>
+<h3 align="center"> ⭐ Se gostou do meu perfil, deixe uma estrela nos meus repositórios! ⭐
   
-![Snake animation](https://github.com/SaadZ3/SaadZ3/blob/output/github-contribution-grid-snake.svg)
