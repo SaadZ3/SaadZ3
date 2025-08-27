@@ -1,4 +1,4 @@
-<h1 align="left">👨‍💻 Saad Amer </h1>
+<h1 align="center">👨‍💻 Saad Amer </h1>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Ol%C3%A1!+Eu+sou+Saad%F0%9F%91%8B;Desenvolvedor+FullStack+%F0%9F%9A%80;Criando+solu%C3%A7%C3%B5es+inovadoras+%E2%9C%A8" alt="Typing SVG" />
 </div>
@@ -33,41 +33,38 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" color="white" alt="express logo"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="40" alt="angular logo"  />   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="java logo"   />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="git logo"/>
+<div>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,angular,java,spring,python,git" />
 </div>
 
+
+
+
+<h2 align="left">📈 Estatísticas</h2>
+
 ###
 
-
-<h2 align="left">📊 Estatísticas</h2>
-
-###
 
 <div align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="165" 
-    width="400"
-    style="margin: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=SaadZ3&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="GitHub Languages" 
-    height="165" 
-    width="400"
-    style="margin: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadZ3&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
-  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaadZ3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadZ3&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaadZ3&theme=tokyonight&hide_border=true&background=0d1117" />
+</div>
+
+###
+<h2 align="left">🤝 Vamos nos conectar! </h2>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saad-amer-102482279/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://seu-portfolio.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadmu139@gmail.com)
+
+</div>
+
+
+<h2 align="center"> ⭐ Se gostou do meu perfil, deixe uma estrela nos meus repositórios! ⭐ <h2></h2>
+  
+![Snake animation](https://github.com/SaadZ3/SaadZ3/blob/output/github-contribution-grid-snake.svg)
