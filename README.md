@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Estudante de Ciência da Computação, com sólida base em desenvolvimento de aplicações web e lógica de
+<p align="left">Estudante de Ciência da Computação, com conhecimento em desenvolvimento de aplicações web e lógica de
  programação. Possuo experiência prática em projetos web, como sistemas de gerenciamento (CRUD), APIs
  REST e landing pages. Tenho domínio de linguagens como JavaScript, Python e Java, além de conhecimento
  em frameworks e bibliotecas como Node.js, React e Express. Busco uma oportunidade de estágio onde
